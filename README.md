@@ -1,5 +1,4 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.discordapp.com/attachments/1058237233511026788/1066438103230844928/IMG_1647.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -54,4 +53,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
