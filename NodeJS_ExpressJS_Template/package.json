@@ -1,0 +1,21 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon server.js",
+    "build-tail": "SET NODE_ENV=production tailwindcss build -i /styles/tailwindcss.css -o /assets/styles.css"
+  },
+  "author": "Thomas Murray",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "nodemon": "^2.0.20",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
