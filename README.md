@@ -42,6 +42,8 @@
 </a>
 <br>
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/1057765121776173138)](https://discord.com/users/1057765121776173138)
+
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
