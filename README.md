@@ -36,7 +36,7 @@
 <a href = 'https://www.github.com/Dev-Coral'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-![Discord Presence](https://lanyard.kyrie25.me/api/1057765121776173138)](https://discord.com/users/1057765121776173138)
+![Discord Presence](https://lanyard.kyrie25.me/api/1057765121776173138)
   
   
   
