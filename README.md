@@ -23,7 +23,7 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites,  
 
-<h2> Skills [![Languages I use](https://skillicons.dev/icons?i=js,ts,html,css,scss,nodejs,react)](https://skillicons.dev)
+<h2> Skills ![Languages I use](https://skillicons.dev/icons?i=js,ts,html,css,scss,nodejs,react)](https://skillicons.dev)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
