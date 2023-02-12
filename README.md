@@ -1,6 +1,7 @@
 <div align="center">
 </div>
-
+  <img src="https://cdn.discordapp.com/attachments/1068055168375078942/1072940147747860562/E94933BB-56F6-4E56-8027-A49A77F20086.jpg" style="height: 250px"
+   
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
